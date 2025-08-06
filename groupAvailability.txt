@@ -10,6 +10,6 @@ Please put first and last initials in the time slots that you are free for outsi
 3pm                             R.S
 4pm
 5pm
-6pm
-7pm
-8pm
+6pm     V.V                     V.V      
+7pm     V.V                     V.V
+8pm     V.V       
