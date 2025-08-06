@@ -3,6 +3,7 @@ public class Names {
 		System.out.println("This group consists of:");
 		greeting();
 		PrintHarrisSig();
+		AaronsFunction();
 		printPi();
 		printName();
 		// Put your signature function on the above line!
@@ -17,6 +18,22 @@ public class Names {
 		System.out.println("Hello World");
 	}
 
+	public static void AaronsFunction() {
+		System.out.println("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣾⣿⣷⣦⣌⠙⢿⣿⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣷⡈⢻⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⠋⣉⠙⢻⣿⣿⣿⣷⠀⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡷⢀⣿⣿⣿⡿⠀⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣼⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿");
+		System.out.println("⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣶⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿");
+		System.out.println("⣿⣿⠁⣴⣿⣿⣿⣿⣿⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿");
+		System.out.println("⣿⣿⠀⢿⣿⣿⣿⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿");
+		System.out.println("⣿⣿⣧⡈⠻⢿⣿⡿⠋⣠⣾⣿⣿⡟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿");
+		System.out.println("⣿⣿⣿⣿⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿");
+	}
+
 	public static void printPi(){
 		System.out.println("3.14159265359");
 	}
@@ -25,4 +42,5 @@ public class Names {
 	public static void printName(){
 		System.out.println("Imogen!!");
 	}
+	
 }
