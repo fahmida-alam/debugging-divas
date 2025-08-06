@@ -1,1 +1,9 @@
+In Week 2, our group was introduced to the basics of version control, which is an essential tool for collaborative development.
+As part of the class activity, we created a shared GitHub repository for our group project, which will be used throughout the semester. In this repository, we added three initial files: a topic list for the unit, a document outlining each group member’s availability for study outside class, and this summary of our Week 2 activities. 
+All group members ensured they had access to the repository and successfully cloned it to their own computers.
 
+We then worked on Task 2, where one team member added a file named `Names.java` to the project. 
+This file included a signature function, and each group member added their own unique signature function and called it from the `main()` method. After pushing our changes to the repository, we encountered a merge conflict, which gave us hands-on experience in understanding and resolving Git conflicts.
+
+Lastly, we cloned the class workshop repository and began experimenting with additional Git commands such as `git init`, `git mv`, `git rm`, and `git log`.
+These activities helped us gain a better understanding of how Git works in practice and allowed us to explore the tool in a low-pressure, test environment.
