@@ -42,5 +42,8 @@ public class Names {
 	public static void printName(){
 		System.out.println("Imogen!!");
 	}
+	public static void printName(){
+		System.out.println("It works!!!");
+	}
 	
 }
