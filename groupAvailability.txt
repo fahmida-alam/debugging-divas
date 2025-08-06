@@ -5,9 +5,9 @@ Please put first and last initials in the time slots that you are free for outsi
 10am
 11am
 12pm
-1pm
-2pm
-3pm
+1pm     R.S                     
+2pm     R.S                     
+3pm                             R.S
 4pm
 5pm
 6pm
