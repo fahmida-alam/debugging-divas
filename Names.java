@@ -4,6 +4,7 @@ public class Names {
 		greeting();
 		PrintHarrisSig();
 		printPi();
+		printName();
 		// Put your signature function on the above line!
 	}
 	
@@ -20,4 +21,8 @@ public class Names {
 		System.out.println("3.14159265359");
 	}
 
+
+	public static void printName(){
+		System.out.println("Imogen!!");
+	}
 }
