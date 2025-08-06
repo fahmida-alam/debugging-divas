@@ -3,6 +3,7 @@ public class Names {
 		System.out.println("This group consists of:");
 		greeting();
 		PrintHarrisSig();
+		printPi();
 		// Put your signature function on the above line!
 	}
 	
@@ -13,6 +14,10 @@ public class Names {
 
 	public static void greeting() {
 		System.out.println("Hello World");
+	}
+
+	public static void printPi(){
+		System.out.println("3.14159265359");
 	}
 
 }
