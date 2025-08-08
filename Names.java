@@ -6,6 +6,7 @@ public class Names {
 		AaronsFunction();
 		printPi();
 		printName();
+		printComment();
 		// Put your signature function on the above line!
 	}
 	
@@ -42,7 +43,7 @@ public class Names {
 	public static void printName(){
 		System.out.println("Imogen!!");
 	}
-	public static void printName(){
+	public static void printComment(){
 		System.out.println("It works!!!");
 	}
 	
