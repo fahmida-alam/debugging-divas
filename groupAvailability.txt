@@ -1,15 +1,18 @@
 Please put first and last initials in the time slots that you are free for outside of class study!!
 
-        Monday      Tuesday     Wednesday       Thursday        Friday      Saturday    Sunday
-9am     
-10am
-11am
-12pm
-1pm     R.S                     I.D
-2pm     R.S                     I.D
-3pm                             R.S
-4pm
-5pm
-6pm     V.V                     V.V      
-7pm     V.V                     V.V
-8pm     V.V       
++--------+----------+--------+-----------+--------+--------+--------+--------+
+| Time   | Mon      | Tue    | Wed       | Thu    | Fri    | Sat    | Sun    |
++--------+----------+--------+-----------+--------+--------+--------+--------+
+| 09:00  |          |        |           |        |        |        |        |
+| 10:00  |          |        |           |        |        |        |        |
+| 11:00  |          |        |           |        |        |        |        |
+| 12:00  |          |        |           |        |        |        |        |
+| 13:00  | R.S, K.D |        | I.D       |        |        |        |        |
+| 14:00  | R.S, K.D |        | I.D       |        |        |        |        |
+| 15:00  |          |        | R.S       |        |        |        |        |
+| 16:00  |          |        |           |        |        |        |        |
+| 17:00  |          |        |           |        |        |        |        |
+| 18:00  | V.V      |        | V.V, K.D  |        |        |        |        |
+| 19:00  | V.V      |        | V.V, K.D  |        |        |        |        |
+| 20:00  | V.V      |        |           |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+-------------+
