@@ -38,7 +38,9 @@ public class Names {
 	public static void printPi(){
 		System.out.println("3.14159265359");
 	}
-
+	public static void printFahmida(){
+		System.out.println("codetesting123");
+	}
 
 	public static void printName(){
 		System.out.println("Imogen!!");
