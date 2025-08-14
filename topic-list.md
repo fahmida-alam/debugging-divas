@@ -1,4 +1,37 @@
 # Topic List
+# COMP2000 Object-Oriented Programming Practices
+
+Object-Oriented Programming Practices is a second-year computing unit which seeks to transition students from the first-year focus on a block-of-code-at-a-time to a whole-application-view.
+
+The unit occupies a critical place in the Softare Technology, Web & Mobile, and Software Engineering programs of study.
+
+Weekly classes Classes are organised around Team Based Learning. Students work in teams
+on carefully calibrated activities which both re-inforce the fundamental concepts/skills
+and allows them to creatively apply them as they choose. There will be thirteen 2-hour
+collaborative classes accross semester at convenient times for students to choose from.
+
+Students will form groups in the first week and work in those groups throughout all thirteen
+classes.
+
+Assignments The two assignments will revolve around creating an application that utilises various programming technologies covered in, but separately from the weekly classes.
+1
+COMP2000 Object-Oriented Programming Practices
+
+# class # content and skills
+1 Team Based Learning
+2 Version Control
+3 Objects and Classes
+4 Inheritance and Overloading
+5 Generics
+6 Exceptions
+7 Patterns 1
+8 Patterns 2
+9 Patterns 3
+10 Lambdas
+11 Streams 1
+12 Streams 2
+13 tbd
+
 ## Assignment 1
 - Assessment Type 1: Programming Task
 Indicative Time on Task 2: 16 hours
